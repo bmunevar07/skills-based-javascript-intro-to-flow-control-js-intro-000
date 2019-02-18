@@ -1,5 +1,6 @@
 function basicTeenager(age) {
-  return("You are a teenager!", 'if the age is between 13-19');
+  if("the age is between 13-19");
+  return("You are a teenager!");
 }
 
 function teenager(age) {
