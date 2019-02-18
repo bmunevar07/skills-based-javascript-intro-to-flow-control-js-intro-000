@@ -1,5 +1,5 @@
 function basicTeenager(age) {
-  return("You are a teenager!");
+  return("You are a teenager!", );
   it('should return "You are a teenager!" if the age is between 13-19', () => {
       expect(basicTeenager(13)).toEqual("You are a teenager!");
     })
