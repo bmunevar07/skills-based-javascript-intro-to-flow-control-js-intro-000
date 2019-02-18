@@ -1,4 +1,4 @@
-function basicTeenager('13-19') {
+function basicTeenager(age) {
   return("You are a teenager!", 'if the age is between 13-19');
 }
 
