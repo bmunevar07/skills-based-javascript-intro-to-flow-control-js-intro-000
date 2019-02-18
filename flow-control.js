@@ -3,11 +3,7 @@ function basicTeenager(age) {
 }
 
 function teenager(age) {
-if (conditionToTest) {
-  // executed if `conditionToTest` is truly
-} else {
-  //excecuted if `conditionToTest` is falsey
-}
+
 }
 
 function ageChecker(age) {
