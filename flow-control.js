@@ -3,7 +3,7 @@ function basicTeenager(age) {
 }
 
 function teenager(age) {
-  return("You are a teenager!");
+  return("You are not a teenager!");
 }
 
 function ageChecker(age) {
